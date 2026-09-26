@@ -77,6 +77,7 @@ Telemedicine Links: Direct integration with platforms like E-Sanjeevani.
 More Languages: Expanding our translation engine to support Tamil, Telugu, Marathi, and more.
 
 👥 Meet the Builders
+
 ARYA SHARMA - [Role/Focus]
 
 ARYA SINGH - [Role/Focus]
