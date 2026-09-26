@@ -78,13 +78,13 @@ More Languages: Expanding our translation engine to support Tamil, Telugu, Marat
 
 👥 Meet the Builders
 
-ARYA SHARMA - [Role/Focus]
+ARYA SHARMA - AI & Vision Integration
 
-ARYA SINGH - [Role/Focus]
+ARYA SINGH - Frontend & UI/UX
 
-ANTRA GARG - [Role/Focus]
+ANTRA GARG - Backend & Data Architecture
 
-AYATI TRIVEDI - [Role/Focus]
+AYATI TRIVEDI - Geolocation & Maps
 
 ⚠️ Disclaimer
 MedicineBridge provides information and prescription-reading assistance only. Always verify medicines, dosage, and treatment decisions with a qualified doctor or pharmacist.
